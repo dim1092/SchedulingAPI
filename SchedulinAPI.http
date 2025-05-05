@@ -1,0 +1,6 @@
+@SchedulinAPI_HostAddress = http://localhost:5029
+
+GET {{SchedulinAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
