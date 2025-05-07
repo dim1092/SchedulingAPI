@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\prouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\prouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\availabilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\availabilitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\timeframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\timeframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:services\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\idatetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:services\\interfaces\\idatetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\interfaces\\ischeduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\interfaces\\ischeduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\interfaces\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\interfaces\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\scheduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\scheduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\datetimerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\datetimerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\datetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:services\\datetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\operatinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\operatinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:controllers\\shopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\schedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|solutionrelative:models\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulinAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -91,19 +123,227 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ShopsController.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\ShopsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShopsController.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\ShopsController.cs",
-              "RelativeToolTip": "Controllers\\ShopsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProUser.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ProUser.cs",
+              "RelativeDocumentMoniker": "Models\\ProUser.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ProUser.cs",
+              "RelativeToolTip": "Models\\ProUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:30:30.408Z",
+              "WhenOpened": "2025-05-06T09:32:34.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:01:35.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShopService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IShopService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IShopService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IShopService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:47:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDateTimeRangeService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IDateTimeRangeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDateTimeRangeService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IDateTimeRangeService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDateTimeRangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:54:16.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\ShopService.cs",
+              "RelativeDocumentMoniker": "Services\\ShopService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\ShopService.cs",
+              "RelativeToolTip": "Services\\ShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:16:48.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:57:59.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:05:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IScheduledEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IScheduledEvent.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IScheduledEvent.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IScheduledEvent.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IScheduledEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:57:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookable.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IBookable.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IBookable.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IBookable.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IBookable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:24:26.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Activity.cs",
+              "RelativeToolTip": "Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:09:10.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScheduledEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduledEvent.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduledEvent.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduledEvent.cs",
+              "RelativeToolTip": "Models\\ScheduledEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:52:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Shop.cs",
+              "RelativeToolTip": "Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:14:54.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T06:32:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T18:31:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DateTimeRange.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\DateTimeRange.cs",
+              "RelativeDocumentMoniker": "Models\\DateTimeRange.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\DateTimeRange.cs",
+              "RelativeToolTip": "Models\\DateTimeRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:50:52.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateTimeRangeService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\DateTimeRangeService.cs",
+              "RelativeDocumentMoniker": "Services\\DateTimeRangeService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\DateTimeRangeService.cs",
+              "RelativeToolTip": "Services\\DateTimeRangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:56:55.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OperatingHours.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\OperatingHours.cs",
+              "RelativeDocumentMoniker": "Models\\OperatingHours.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\OperatingHours.cs",
+              "RelativeToolTip": "Models\\OperatingHours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:23:08.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "Controllers\\EventsController.cs",
@@ -116,33 +356,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AvailabilitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\AvailabilitiesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AvailabilitiesController.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\AvailabilitiesController.cs",
-              "RelativeToolTip": "Controllers\\AvailabilitiesController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:16:07.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActivitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\ActivitiesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ActivitiesController.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\ActivitiesController.cs",
-              "RelativeToolTip": "Controllers\\ActivitiesController.cs",
+              "DocumentIndex": 18,
+              "Title": "ShopsController.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\ShopsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopsController.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Controllers\\ShopsController.cs",
+              "RelativeToolTip": "Controllers\\ShopsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T06:06:12.084Z",
+              "WhenOpened": "2025-05-03T06:30:30.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -155,72 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DayOfWeek.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\DayOfWeek.cs",
-              "RelativeDocumentMoniker": "Models\\DayOfWeek.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\DayOfWeek.cs",
-              "RelativeToolTip": "Models\\DayOfWeek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T08:13:03.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TimeFrame.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\TimeFrame.cs",
-              "RelativeDocumentMoniker": "Models\\TimeFrame.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\TimeFrame.cs",
-              "RelativeToolTip": "Models\\TimeFrame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:32:18.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Availability.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Availability.cs",
-              "RelativeDocumentMoniker": "Models\\Availability.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Availability.cs",
-              "RelativeToolTip": "Models\\Availability.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:23:08.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Shop.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Shop.cs",
-              "RelativeDocumentMoniker": "Models\\Shop.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Shop.cs",
-              "RelativeToolTip": "Models\\Shop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:14:54.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Activity.cs",
-              "RelativeDocumentMoniker": "Models\\Activity.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Activity.cs",
-              "RelativeToolTip": "Models\\Activity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T22:09:10.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ScheduleContext.cs",
               "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduleContext.cs",
               "RelativeDocumentMoniker": "Models\\ScheduleContext.cs",
@@ -233,33 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T21:57:59.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "Models\\Event.cs",
-              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Event.cs",
-              "RelativeToolTip": "Models\\Event.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T21:52:39.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -272,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
@@ -285,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "SchedulinAPI.http",
               "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\SchedulinAPI.http",
               "RelativeDocumentMoniker": "SchedulinAPI.http",

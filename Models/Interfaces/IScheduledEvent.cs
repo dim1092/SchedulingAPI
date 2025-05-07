@@ -1,10 +1,10 @@
 ﻿namespace SchedulinAPI.Models.Interfaces;
 
-public interface IEvent
+public interface IScheduledEvent
 {
     long Id { get; }
     string Name { get; }
+    User Owner { get; }
     DateTimeRange DateTimeRange { get; }
-    long EventType { get; } // bookable id
-    public bool CanJoin(User user);
+    IBookable? Bookable { get; } 
 }

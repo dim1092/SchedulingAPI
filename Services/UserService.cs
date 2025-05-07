@@ -1,25 +1,25 @@
 ﻿using SchedulinAPI.Models;
 using SchedulinAPI.Models.Interfaces;
 using SchedulinAPI.Services.Interfaces;
+using System.ComponentModel;
 
 namespace SchedulinAPI.Services;
 
 public class UserService : IUserService
 {
-    public bool CanAddEvent(User user, IEvent ev)
+    User User { get; }
+    public UserService(User user)
     {
-        throw new NotImplementedException();
+        User = user;
+    }
 
-        // Check if user can join the event
-        if (!ev.CanJoin(user))
+    /// <inheritdoc />
+    public bool CanAddEvent(IScheduledEvent scheduledEvent)
+    {
+        // Check if user doesn't have other events at the same time
+        foreach (IScheduledEvent userEvent in User.ScheduledEvents)
         {
-            return false;
-        }
-
-        // Check if user dosn't have other events in the same time
-        foreach (IEvent userEvent in user.Events)
-        {
-            if (DateTimeRangeService.IsOverlap(userEvent.DateTimeRange, ev.DateTimeRange))
+            if (DateTimeRangeService.IsOverlap(scheduledEvent.DateTimeRange, userEvent.DateTimeRange))
             {
                 return false;
             }
@@ -27,18 +27,79 @@ public class UserService : IUserService
         return true;
     }
 
-    public List<DateTimeRange> GetNonAvailability(User performingUser, long eventType)
+    /// <inheritdoc />
+    public List<DateTimeRange> GetNonAvailability(User performingUser, IBookable bookable)
     {
         List<DateTimeRange> unavailibilities = new ();
-        foreach (IEvent userEvent in performingUser.Events)
+        foreach (IScheduledEvent userEvent in performingUser.ScheduledEvents)
         {
-            if (userEvent.EventType != eventType) // User has other event, can't join an other one
+            // User has other event, can't join an other one
+            if (userEvent.Bookable != bookable) 
             {
                 unavailibilities.Add(userEvent.DateTimeRange);
-            } else
-            {
-                if
             }
         }
+        return unavailibilities;
+    }
+
+    /// <inheritdoc />
+    public bool AddEvent(IScheduledEvent scheduledEvent)
+    {
+        if (!CanAddEvent(scheduledEvent)) 
+        {
+            return false;
+        }
+        User.ScheduledEvents.Add(scheduledEvent);
+        return true;
+    }
+
+    /// <inheritdoc />
+    public void RemoveEvent(IScheduledEvent ScheduledEvent)
+    {
+        User.ScheduledEvents.Remove(ScheduledEvent);
+    }
+
+    /// <inheritdoc />
+    public List<IScheduledEvent> GetEvents(DateTimeRange? timeRange = null, IBookable? bookable = null)
+    {
+        List<IScheduledEvent> result = new ();
+        foreach (IScheduledEvent scheduledEvent in User.ScheduledEvents)
+        {
+            if (timeRange != null && DateTimeRangeService.IsOverlap(scheduledEvent.DateTimeRange, timeRange))
+            {
+                continue;
+            }
+            if (bookable != null && scheduledEvent.Bookable != bookable)
+            {
+                continue;
+            }
+            result.Add(scheduledEvent);
+        }
+
+        return result;
+    }
+
+    /// <inheritdoc />
+    public ProUser MakeUserProUser()
+    {
+        throw new NotImplementedException();
+    }
+
+    /// <inheritdoc />
+    public List<DateTimeRange> GetEvents(DateTimeRangeService? timeRange = null, IBookableService? bookable = null)
+    {
+        throw new NotImplementedException();
+    }
+
+    /// <inheritdoc />
+    public bool AddEvent(IScheduledEventService ScheduledEvent)
+    {
+        throw new NotImplementedException();
+    }
+
+    /// <inheritdoc />
+    public void RemoveEvent(IScheduledEventService ScheduledEvent)
+    {
+        throw new NotImplementedException();
     }
 }

@@ -246,3 +246,4 @@ C:\Users\dimde\source\repos\SchedulinAPI\obj\Debug\net9.0\SchedulinAPI.pdb
 C:\Users\dimde\source\repos\SchedulinAPI\obj\Debug\net9.0\SchedulinAPI.genruntimeconfig.cache
 C:\Users\dimde\source\repos\SchedulinAPI\obj\Debug\net9.0\ref\SchedulinAPI.dll
 C:\Users\dimde\source\repos\SchedulinAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dimde\source\repos\SchedulinAPI\obj\Debug\net9.0\SchedulinAPI.sourcelink.json

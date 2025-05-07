@@ -1,6 +1,8 @@
-﻿namespace SchedulinAPI.Models;
+﻿using SchedulinAPI.Utils;
 
-public class Availability
+namespace SchedulinAPI.Models;
+
+public class OperatingHours
 {
     public long Id { get; set; }
     public DayOfWeek DayOfWeek { get; set; }
