@@ -89,6 +89,12 @@ public class CustumScheduledEventService : IScheduledEventService
         Event.Owner.ScheduledEvents.Remove(Event);
     }
 
+    /// <inheritdoc/>
+    public bool CanJoin (User user)
+    {
+        return IsInvited(user);
+    }
+
     /// <summary>
     /// Check if a user is invited to the event
     /// </summary>

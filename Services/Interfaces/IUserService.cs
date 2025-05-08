@@ -23,7 +23,7 @@ public interface IUserService
     /// The Availability needs to be taken in account too. The Availability is the weekly / 
     /// daily schedule when he accpets to participate to an event</remarks>
     /// </summary>
-    public List<DateTimeRange> GetEvents(DateTimeRange? timeRange = null, IBookable? bookable = null);
+    public List<IScheduledEvent> GetEvents(DateTimeRange? timeRange = null, IBookable? bookable = null);
 
 
     /// <summary>

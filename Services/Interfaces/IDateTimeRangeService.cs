@@ -14,5 +14,5 @@ public interface IDateTimeRangeService
     /// <param name="range">An other DateTimeRange</param>
     /// <returns>True if overlap, flase otherweise</returns>
     /// </summary>
-    public bool IsOverlap(DateTimeRange range);
+    public abstract static bool IsOverlap(DateTimeRange range1, DateTimeRange range2);
 }

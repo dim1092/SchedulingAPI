@@ -1,4 +1,4 @@
-﻿namespace SchedulinAPI.Utils;
+﻿namespace SchedulinAPI.DataStructures;
 
 public enum DayOfWeek
 {

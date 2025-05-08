@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\operatinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\operatinghours.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\schedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\schedulecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\prouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\prouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\custumscheduledeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\custumscheduledeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\bookableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\bookableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\datastructures\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:datastructures\\dayofweek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\datetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\datetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\idatetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\interfaces\\idatetimerangeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\scheduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\scheduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\ibookableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\interfaces\\ibookableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\shopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\iprouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\interfaces\\iprouserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\prouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\prouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\interfaces\\ishopservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\datetimerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\datetimerange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\services\\interfaces\\ischeduledeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:services\\interfaces\\ischeduledeventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\customscheduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\customscheduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\interfaces\\ischeduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\interfaces\\ischeduledevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\models\\interfaces\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:models\\interfaces\\ibookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|c:\\users\\dimde\\source\\repos\\schedulinapi\\schedulinapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{10AC06D9-DAAC-4872-82FF-0D38BD621469}|SchedulingAPI.csproj|solutionrelative:schedulinapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScheduleContext.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduleContext.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduleContext.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduleContext.cs",
+              "RelativeToolTip": "Models\\ScheduleContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:30:21.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustumScheduledEventService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\CustumScheduledEventService.cs",
+              "RelativeDocumentMoniker": "Services\\CustumScheduledEventService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\CustumScheduledEventService.cs",
+              "RelativeToolTip": "Services\\CustumScheduledEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:27:42.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookableService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\BookableService.cs",
+              "RelativeDocumentMoniker": "Services\\BookableService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\BookableService.cs",
+              "RelativeToolTip": "Services\\BookableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:27:39.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatingHours.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\OperatingHours.cs",
+              "RelativeDocumentMoniker": "Models\\OperatingHours.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\OperatingHours.cs",
+              "RelativeToolTip": "Models\\OperatingHours.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:23:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DayOfWeek.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\DataStructures\\DayOfWeek.cs",
+              "RelativeDocumentMoniker": "DataStructures\\DayOfWeek.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\DataStructures\\DayOfWeek.cs",
+              "RelativeToolTip": "DataStructures\\DayOfWeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:42:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\ProUserService.cs",
+              "RelativeDocumentMoniker": "Services\\ProUserService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\ProUserService.cs",
+              "RelativeToolTip": "Services\\ProUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T14:34:27.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T08:34:18.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DateTimeRangeService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\DateTimeRangeService.cs",
+              "RelativeDocumentMoniker": "Services\\DateTimeRangeService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\DateTimeRangeService.cs",
+              "RelativeToolTip": "Services\\DateTimeRangeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:56:55.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDateTimeRangeService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IDateTimeRangeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IDateTimeRangeService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IDateTimeRangeService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IDateTimeRangeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:54:16.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScheduledEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduledEvent.cs",
+              "RelativeDocumentMoniker": "Models\\ScheduledEvent.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ScheduledEvent.cs",
+              "RelativeToolTip": "Models\\ScheduledEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:52:39.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IShopService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IShopService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IShopService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IShopService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IShopService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:47:19.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProUser.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ProUser.cs",
+              "RelativeDocumentMoniker": "Models\\ProUser.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\ProUser.cs",
+              "RelativeToolTip": "Models\\ProUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:32:34.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProUserService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IProUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProUserService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IProUserService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:49:28.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\ShopService.cs",
+              "RelativeDocumentMoniker": "Services\\ShopService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\ShopService.cs",
+              "RelativeToolTip": "Services\\ShopService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:16:48.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookableService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IBookableService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBookableService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IBookableService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBookableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:06:05.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:57:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DateTimeRange.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\DateTimeRange.cs",
+              "RelativeDocumentMoniker": "Models\\DateTimeRange.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\DateTimeRange.cs",
+              "RelativeToolTip": "Models\\DateTimeRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:50:52.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IScheduledEventService.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IScheduledEventService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IScheduledEventService.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Services\\Interfaces\\IScheduledEventService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IScheduledEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T12:56:38.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Shop.cs",
+              "RelativeToolTip": "Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:14:54.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Activity.cs",
+              "RelativeToolTip": "Models\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T22:09:10.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomScheduledEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\CustomScheduledEvent.cs",
+              "RelativeDocumentMoniker": "Models\\CustomScheduledEvent.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\CustomScheduledEvent.cs",
+              "RelativeToolTip": "Models\\CustomScheduledEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:37:47.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IScheduledEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IScheduledEvent.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IScheduledEvent.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IScheduledEvent.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IScheduledEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:57:22.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBookable.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IBookable.cs",
+              "RelativeDocumentMoniker": "Models\\Interfaces\\IBookable.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Models\\Interfaces\\IBookable.cs",
+              "RelativeToolTip": "Models\\Interfaces\\IBookable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:24:26.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T18:31:19.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T14:16:45.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T14:16:32.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SchedulinAPI.http",
+              "DocumentMoniker": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\SchedulinAPI.http",
+              "RelativeDocumentMoniker": "SchedulinAPI.http",
+              "ToolTip": "C:\\Users\\dimde\\source\\repos\\SchedulinAPI\\SchedulinAPI.http",
+              "RelativeToolTip": "SchedulinAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-01T14:16:01.674Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

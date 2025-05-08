@@ -1,11 +1,9 @@
-﻿using SchedulinAPI.Utils;
-
-namespace SchedulinAPI.Models;
+﻿namespace SchedulinAPI.Models;
 
 public class OperatingHours
 {
     public long Id { get; set; }
-    public DayOfWeek DayOfWeek { get; set; }
-    public List<TimeFrame> TimeFrames { get; set; } = new();
+    public DataStructures.DayOfWeek DayOfWeek { get; set; }
+    public List<DateTimeRange> Range { get; set; } = new();
 }
 
